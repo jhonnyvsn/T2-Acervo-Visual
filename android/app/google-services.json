@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1016868558446",
+    "project_id": "projetomobile-4d694",
+    "storage_bucket": "projetomobile-4d694.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016868558446:android:cb508f2ffd7cf05375b87f",
+        "android_client_info": {
+          "package_name": "com.example.pokedex_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016868558446-ikvcv978b3dfhlnqt1bn2krtbeu51h0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokedex_app",
+            "certificate_hash": "59f93433c20e07ab4b934dac069c2d2032989182"
+          }
+        },
+        {
+          "client_id": "1016868558446-8f3eif1u02k8ruvd1r3u60j3t85kta1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_oqtClxq6cIhVmTniMGaUZ-Am7ibwHpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016868558446-8f3eif1u02k8ruvd1r3u60j3t85kta1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016868558446-o7vj92frmhmbuu6inosrbk203qdhcujq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pokedexApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
